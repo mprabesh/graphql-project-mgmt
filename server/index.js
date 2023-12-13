@@ -17,6 +17,8 @@ app.use(
   })
 );
 
+// this is for commit 2
+
 app.listen(PORT, () => {
   console.log("Server running on port ", PORT);
 });
